@@ -1,0 +1,61 @@
+.nav__links{
+    display: inline-block;
+}
+
+.nav__link:hover{
+    color: #1fde82;
+    transition: color .1s;
+}
+
+.cta:hover{
+    width: 135px;
+    padding: 14px 0;
+    transition: width padding  .5s;
+}
+
+.hamburger{
+    display: none;
+}
+
+
+.number{
+    width: 45%;
+}
+
+.numbers{
+     width: 60%; 
+    
+}
+
+.questions__img{
+    grid-row: 1 / 2;     
+}
+
+.questions__texts{
+    grid-column: 2 / 3;
+
+}
+
+.results__texts{
+    width: 37%;
+    /*width: 37%*/
+}
+
+.results__cta:hover{
+    background: rgba(255, 255, 255, .2);
+    
+
+}
+
+.services{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2em;
+    place-items: center;
+}
+
+.footer__section{
+    width: 20%;
+    
+}
+

@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with curved sections solution
+# Practice HTML & CSS using Mobile First. 
 
 This is a solution to the [AlexCJ Design purpose.](https://www.youtube.com/c/AlexCGDesign). Frontend Mentor challenges.
 
